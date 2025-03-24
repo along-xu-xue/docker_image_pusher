@@ -1,3 +1,2 @@
-nginx
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:2.0.0
---platform=linux/arm64 xiaoyaliu/alist
+maven:3.5.0-jdk-8-alpine
+openjdk:8-jre-alpine
