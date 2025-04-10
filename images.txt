@@ -1,2 +1,1 @@
-
-harbor:latest
+redis:6-alpine
